@@ -7,3 +7,7 @@ Introducing a voluntary initiative for Higher School of Management and Digital E
 To enhance efficiency, the platform offers a dedicated interface for the administration. This interface enables the administration to track platform performance and efficiently manage printing requests. This dual functionality aims to streamline communication between students and the administration, providing a comprehensive solution for handling internship documentation. The initiative is driven by the goal of making the internship request process more accessible and user-friendly for students at the Higher University of Management and Digital Economy.
 
 http://stage.esgen.edu.dz/
+
+
+https://github.com/user-attachments/assets/adc582f9-677c-42e1-9135-1e6aa67cefc8
+
